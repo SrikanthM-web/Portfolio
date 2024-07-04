@@ -214,8 +214,9 @@ section .title span::after{
   width: 45%;
 }
 .about .left img{
-  height: 400px;
-  width: 400px;
+  height: 600px;
+  width: 600px;
+  position: top;
   object-fit: cover;
   border-radius: 12px;
 }
